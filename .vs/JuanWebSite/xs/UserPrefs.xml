@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{211411E8-B6AA-4396-A91B-FD56BF62646B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JuanWebSite/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="JuanWebSite/Program.cs" Line="16" Column="1" />
+      <File FileName="JuanWebSite/Startup.cs" />
+      <File FileName="JuanWebSite/Views/Shared/_Layout.cshtml" Line="454" Column="36" />
+      <File FileName="JuanWebSite/Controllers/HomeController.cs" />
+      <File FileName="JuanWebSite/Views/Home/Index.cshtml" />
+      <File FileName="JuanWebSite/appsettings.json" />
+      <File FileName="JuanWebSite/Views/_ViewStart.cshtml" />
+      <File FileName="JuanWebSite/Views/_ViewImports.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JuanWebSite" expanded="True">
+            <Node name="JuanWebSite" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="assets" expanded="True">
+                  <Node name="css" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JuanWebSite PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
